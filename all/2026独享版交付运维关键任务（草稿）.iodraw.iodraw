@@ -167,7 +167,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zRhWW8jAyFs0MpO-wh6W-14" value="Q1" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
-          <mxGeometry x="20" y="210" width="40" height="30" as="geometry" />
+          <mxGeometry x="650" y="10" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zRhWW8jAyFs0MpO-wh6W-15" value="Q1-Q4" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
