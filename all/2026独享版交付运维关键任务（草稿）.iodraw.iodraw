@@ -34,7 +34,7 @@
         <mxCell id="uzUcK1Q5daXNvF7D7pJq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uzUcK1Q5daXNvF7D7pJq-16" target="uzUcK1Q5daXNvF7D7pJq-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uzUcK1Q5daXNvF7D7pJq-31" value="监控告警" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="uzUcK1Q5daXNvF7D7pJq-31" value="&lt;font color=&quot;#ff3333&quot;&gt;监控告警&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uzUcK1Q5daXNvF7D7pJq-32" value="基础运维" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
