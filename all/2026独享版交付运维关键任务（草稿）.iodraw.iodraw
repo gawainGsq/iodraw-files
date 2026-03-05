@@ -22,7 +22,7 @@
         <mxCell id="uzUcK1Q5daXNvF7D7pJq-8" value="FineBI Next" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="930" y="110" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uzUcK1Q5daXNvF7D7pJq-11" value="&lt;font color=&quot;#ff3333&quot;&gt;cmd 部署检测&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="uzUcK1Q5daXNvF7D7pJq-11" value="&lt;font color=&quot;#ff3333&quot;&gt;cmd 部署检测&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="370" y="210" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uzUcK1Q5daXNvF7D7pJq-13" value="部署迁移" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
