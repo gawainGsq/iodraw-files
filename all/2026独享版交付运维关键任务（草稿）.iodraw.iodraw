@@ -46,14 +46,13 @@
         <mxCell id="uzUcK1Q5daXNvF7D7pJq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uzUcK1Q5daXNvF7D7pJq-33" target="uzUcK1Q5daXNvF7D7pJq-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uzUcK1Q5daXNvF7D7pJq-35" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#DAE8FC;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="370" y="290" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="uzUcK1Q5daXNvF7D7pJq-36" value="Q2" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="300" y="290" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uzUcK1Q5daXNvF7D7pJq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uzUcK1Q5daXNvF7D7pJq-36" target="uzUcK1Q5daXNvF7D7pJq-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="uzUcK1Q5daXNvF7D7pJq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uzUcK1Q5daXNvF7D7pJq-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="305" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uzUcK1Q5daXNvF7D7pJq-38" value="cmd 自动化部署" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="450" width="100" height="30" as="geometry" />
@@ -215,6 +214,9 @@
             <mxPoint x="840" y="1010" as="sourcePoint" />
             <mxPoint x="1200" y="1010" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zRhWW8jAyFs0MpO-wh6W-22" value="进行中" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="30" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
