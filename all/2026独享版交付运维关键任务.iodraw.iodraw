@@ -130,7 +130,7 @@
         <mxCell id="zRhWW8jAyFs0MpO-wh6W-1" value="监控告警" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="670" y="200" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zRhWW8jAyFs0MpO-wh6W-2" value="基础运维" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="zRhWW8jAyFs0MpO-wh6W-2" value="部署运维" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="160" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zRhWW8jAyFs0MpO-wh6W-3" value="Q1" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
