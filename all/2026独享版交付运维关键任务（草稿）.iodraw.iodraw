@@ -243,7 +243,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-23" value="&lt;font color=&quot;#ff3333&quot;&gt;知识库&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="890" y="210" width="105" height="30" as="geometry" />
+          <mxGeometry x="890" y="210" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-24" value="Q3" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="820" y="210" width="40" height="30" as="geometry" />
