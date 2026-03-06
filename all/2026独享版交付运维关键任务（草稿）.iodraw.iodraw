@@ -242,7 +242,7 @@
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b74Yr4R5mVzoaPxRFGxd-6" target="b74Yr4R5mVzoaPxRFGxd-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b74Yr4R5mVzoaPxRFGxd-23" value="&lt;font color=&quot;#ff3333&quot;&gt;知识库&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="b74Yr4R5mVzoaPxRFGxd-23" value="&lt;font color=&quot;#ff3333&quot;&gt;知识库&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="875" y="370" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-24" value="Q3" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
