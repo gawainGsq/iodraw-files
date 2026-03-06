@@ -222,31 +222,31 @@
           <mxGeometry x="370" y="290" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-1" value="&lt;font color=&quot;#ff3333&quot;&gt;业务流程优化&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="875" y="210" width="90" height="30" as="geometry" />
+          <mxGeometry x="890" y="290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-2" value="服务建设" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="845" y="170" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-3" value="Q2" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="805" y="210" width="40" height="30" as="geometry" />
+          <mxGeometry x="820" y="290" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b74Yr4R5mVzoaPxRFGxd-3" target="b74Yr4R5mVzoaPxRFGxd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-5" value="&lt;font color=&quot;#ff3333&quot;&gt;信息化建设&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="875" y="290" width="105" height="30" as="geometry" />
+          <mxGeometry x="890" y="370" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-6" value="Q3" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="805" y="290" width="40" height="30" as="geometry" />
+          <mxGeometry x="820" y="370" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b74Yr4R5mVzoaPxRFGxd-6" target="b74Yr4R5mVzoaPxRFGxd-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-23" value="&lt;font color=&quot;#ff3333&quot;&gt;知识库&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="875" y="370" width="105" height="30" as="geometry" />
+          <mxGeometry x="890" y="450" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-24" value="Q3" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="805" y="370" width="40" height="30" as="geometry" />
+          <mxGeometry x="820" y="450" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b74Yr4R5mVzoaPxRFGxd-24" target="b74Yr4R5mVzoaPxRFGxd-23">
           <mxGeometry relative="1" as="geometry" />
