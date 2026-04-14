@@ -72,7 +72,7 @@
         <mxCell id="uzUcK1Q5daXNvF7D7pJq-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uzUcK1Q5daXNvF7D7pJq-42" target="uzUcK1Q5daXNvF7D7pJq-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uzUcK1Q5daXNvF7D7pJq-44" value="&lt;font color=&quot;#ff3333&quot;&gt;mongodb 适配 6.0&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="uzUcK1Q5daXNvF7D7pJq-44" value="&lt;font color=&quot;#ff3333&quot;&gt;mongodb 适配 6.0&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="610" y="290" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uzUcK1Q5daXNvF7D7pJq-45" value="Q1" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
@@ -197,11 +197,11 @@
         </mxCell>
         <mxCell id="zRhWW8jAyFs0MpO-wh6W-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1220" y="1130" as="sourcePoint" />
-            <mxPoint x="1580" y="210" as="targetPoint" />
+            <mxPoint x="1120" y="1010" as="sourcePoint" />
+            <mxPoint x="1480" y="90" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1220" y="210" />
-              <mxPoint x="1460" y="210" />
+              <mxPoint x="1120" y="90" />
+              <mxPoint x="1360" y="90" />
             </Array>
           </mxGeometry>
         </mxCell>
