@@ -255,7 +255,7 @@
           <mxGeometry x="1000" y="275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b5CQ-WBXt2hjsa8SnwA7-1" value="&lt;font color=&quot;#ff3333&quot;&gt;kubekey 部署1.34&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="610" y="530" width="90" height="30" as="geometry" />
+          <mxGeometry x="610" y="530" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b5CQ-WBXt2hjsa8SnwA7-2" value="Q2" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="540" y="530" width="40" height="30" as="geometry" />
