@@ -117,7 +117,7 @@
         <mxCell id="uzUcK1Q5daXNvF7D7pJq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uzUcK1Q5daXNvF7D7pJq-63" target="uzUcK1Q5daXNvF7D7pJq-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zVRhgnCeJHRnDNpdWcp6-1" value="&lt;font color=&quot;#ff3333&quot;&gt;操作系统可维护列表&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="zVRhgnCeJHRnDNpdWcp6-1" value="&lt;font color=&quot;#ff3333&quot;&gt;部署兼容性矩阵刷新&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="610" y="610" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zVRhgnCeJHRnDNpdWcp6-2" value="Q2" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
@@ -264,7 +264,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b5CQ-WBXt2hjsa8SnwA7-4" value="&lt;font color=&quot;#ff3333&quot;&gt;操作系统可维护列表&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="620" y="620" width="120" height="30" as="geometry" />
+          <mxGeometry x="770" y="610" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
