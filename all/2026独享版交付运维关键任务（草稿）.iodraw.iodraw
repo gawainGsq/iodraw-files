@@ -40,7 +40,7 @@
         <mxCell id="uzUcK1Q5daXNvF7D7pJq-32" value="基础运维" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="580" y="170" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uzUcK1Q5daXNvF7D7pJq-33" value="Q1" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="uzUcK1Q5daXNvF7D7pJq-33" value="2026" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="540" y="210" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uzUcK1Q5daXNvF7D7pJq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uzUcK1Q5daXNvF7D7pJq-33" target="uzUcK1Q5daXNvF7D7pJq-31" edge="1">
@@ -157,7 +157,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zRhWW8jAyFs0MpO-wh6W-11" value="部署支撑50家（预期基准）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="370" width="105" height="30" as="geometry" />
+          <mxGeometry x="1290" y="370" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zRhWW8jAyFs0MpO-wh6W-12" value="Q4" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1220" y="370" width="40" height="30" as="geometry" />
