@@ -224,8 +224,8 @@
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-1" value="&lt;font color=&quot;#ff3333&quot;&gt;业务流程优化&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b74Yr4R5mVzoaPxRFGxd-2" value="服务建设" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="845" y="170" width="70" height="30" as="geometry" />
+        <mxCell id="b74Yr4R5mVzoaPxRFGxd-2" value="服务业务支撑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="830" y="170" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-3" value="Q2" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="810" y="210" width="40" height="30" as="geometry" />
