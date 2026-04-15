@@ -275,7 +275,7 @@
         <mxCell id="Lnqy_9l4EWnz3yLPJGrD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lnqy_9l4EWnz3yLPJGrD-1" target="Lnqy_9l4EWnz3yLPJGrD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lnqy_9l4EWnz3yLPJGrD-1" value="部署支撑100家（基准）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Lnqy_9l4EWnz3yLPJGrD-1" value="部署支撑210家（挑战）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="880" y="450" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lnqy_9l4EWnz3yLPJGrD-2" value="2026" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
