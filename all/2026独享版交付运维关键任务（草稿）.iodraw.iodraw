@@ -284,7 +284,7 @@
         <mxCell id="Lnqy_9l4EWnz3yLPJGrD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Lnqy_9l4EWnz3yLPJGrD-2" target="Lnqy_9l4EWnz3yLPJGrD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dSzAffAfap2lvo4hBf-m-10" value="cmd 备份恢复" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
+        <mxCell id="dSzAffAfap2lvo4hBf-m-10" value="备份恢复自动化" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="610" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSzAffAfap2lvo4hBf-m-11" value="Q4" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
