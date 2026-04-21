@@ -254,8 +254,8 @@
         <mxCell id="b74Yr4R5mVzoaPxRFGxd-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
           <mxGeometry x="1000" y="275" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b5CQ-WBXt2hjsa8SnwA7-1" value="&lt;font color=&quot;#ff3333&quot;&gt;kubekey 部署1.34&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="610" y="530" width="120" height="30" as="geometry" />
+        <mxCell id="b5CQ-WBXt2hjsa8SnwA7-1" value="&lt;font color=&quot;#ff3333&quot;&gt;部署 k8s 1.34&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="610" y="530" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b5CQ-WBXt2hjsa8SnwA7-2" value="Q2" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="540" y="530" width="40" height="30" as="geometry" />
