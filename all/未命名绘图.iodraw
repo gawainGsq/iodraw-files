@@ -275,8 +275,8 @@
         <mxCell id="Lnqy_9l4EWnz3yLPJGrD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Lnqy_9l4EWnz3yLPJGrD-1" target="Lnqy_9l4EWnz3yLPJGrD-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lnqy_9l4EWnz3yLPJGrD-1" value="&lt;font color=&quot;#ff3333&quot;&gt;操作安全合规规范&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="880" y="450" width="110" height="30" as="geometry" />
+        <mxCell id="Lnqy_9l4EWnz3yLPJGrD-1" value="&lt;font color=&quot;#ff3333&quot;&gt;操作安全合规&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="880" y="450" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lnqy_9l4EWnz3yLPJGrD-2" value="Q3" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="810" y="450" width="40" height="30" as="geometry" />
